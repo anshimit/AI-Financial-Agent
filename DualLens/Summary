@@ -1,0 +1,11 @@
+A. Summary / Observations about this Project
+
+1. Used RAG to extract contextual information from PDF documents and build a ranking system on financial data with companies' AI initiatives.
+2. The combination of quantiative and qualitaitve metrics to rank a company helped provide a better holistic score rather than relying on financial data alone.
+3. The project highlighted the importance of prompt design when creating agents through LLM to manage context and evidence control to avoid hallucinations and ensure transparent, explainable outputs. 
+
+B. Recommendations for this Project / What improvements can be made to this Project 
+
+1. Evidence regarding the company AI initiatives should be summarized before ranking to help prevent going over max tokens in the embedded model and can allow better company summary rather than truncated excerpts 
+2. There should be more metrics revolving around company investments like number of patents or research budget to get a better understanding of company AI motivation. 
+3. There should be a confidence score to represent the accuracy and interpretability of the information for better reliance in strategic decision-making. 

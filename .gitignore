@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+config.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Vector stores
+chroma/
