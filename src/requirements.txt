@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+langgraph
+langchain-community
+yfinance
+chromadb
+pypdf
+tiktoken
+python-dotenv
